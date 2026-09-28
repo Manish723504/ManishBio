@@ -482,7 +482,7 @@ function App() {
             </a>
 
             <a
-              href="tel:+919999999999"
+              href="tel:+917235040032"
               className="flex items-center gap-2 transition hover:text-cyan-400"
             >
               <Phone size={19} />
